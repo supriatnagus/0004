@@ -1,0 +1,1003 @@
+{
+    "tasksData": [
+        {
+            "name": "Level1",
+            "localizedName": "Level 1",
+            "gameType": 0,
+            "useMixedTypes": true,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Naruto uzumaki",
+                    "imageText": "He/She is a character from anime entitled \"Naruto\". MAL score: 7.92",
+                    "imageDescription": "He/She is a character from anime entitled \"Naruto\". It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village - Wikipedia. MAL score: 7.92",
+                    "wrongAnswers": [
+                        "boruto uzumaki",
+                        "nicolas brown",
+                        "Bell Cranel"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Levi",
+                    "imageText": "He/She is a character from anime entitled \"Attack on Titan\". MAL score: 8.50",
+                    "imageDescription": "He/She is a character from anime entitled \"Attack on Titan\".  It is set in a world where humanity lives inside cities surrounded by three enormous walls that protect them from the gigantic man-eating humanoids referred to as Titans - Wikipedia. MAL score: 8.50",
+                    "wrongAnswers": [
+                        "Eren yeager",
+                        "Dante",
+                        "Ranpo edogawa"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "monkey d luffy",
+                    "imageText": "He/She is a character from anime entitled \"One Piece\". MAL score: 8.53",
+                    "imageDescription": "He/She is a character from anime entitled \"One Piece\". The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit - Wikipedia. MAL score: 8.53",
+                    "wrongAnswers": [
+                        "Takumi fujiwara",
+                        "Youichi Hiruma",
+                        "Guren Ichinose"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Gintoki Sakata",
+                    "imageText": "He/She is a character from anime entitled \"Gintama\". MAL score: 8.96",
+                    "imageDescription": "He/She is a character from anime entitled \"Gintama\". Set in Edo, which has been conquered by aliens named Amanto, the plot follows life from the point of view of samurai Gintoki Sakata, who works as a freelancer alongside his friends Shinpachi Shimura and Kagura in order to pay the monthly rent - Wikipedia. MAL score: 8.96",
+                    "wrongAnswers": [
+                        "Gintama",
+                        "Gin Ichimaru",
+                        "Shinji Ikari"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Light Yagami",
+                    "imageText": "He/She is a character from anime entitled \"Death Note\". MAL score: 8.63",
+                    "imageDescription": "He/She is a character from anime entitled \"Death Note\". The story follows Light Yagami, a teen genius who discovers a mysterious notebook: the \"Death Note\", which belonged to the Shinigami Ryuk, and grants the user the supernatural ability to kill anyone whose name is written in its pages - Wikipedia. MAL score: 8.63",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Killua Zoldyck",
+                    "imageText": "He/She is a character from anime entitled \"Hunter X Hunter\". MAL score: 8.41",
+                    "imageDescription": "He/She is a character from anime entitled \"Hunter X Hunter\". The story focuses on a young boy named Gon Freecss who discovers that his father, who left him at a young age, is actually a world renowned Hunter, a licensed professional who specializes in fantastical pursuits such as locating rare or unidentified animal species, etc - Wikipedia. MAL score: 8.41",
+                    "wrongAnswers": [
+                        "Tetsuya Kuroko",
+                        "Deishuu Kaiki",
+                        "Gray Fullbuster"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Edward Elric",
+                    "imageText": "He/She is a character from anime entitled \"Fullmetal Alchemist\". MAL score: 8.15",
+                    "imageDescription": "He/She is a character from anime entitled \"Fullmetal Alchemist\".  the series follows the journey of two alchemist brothers, Edward and Alphonse Elric, who are searching for the philosopher's stone to restore their bodies after a failed attempt to bring their mother back to life using alchemy - Wikipedia. MAL score: 8.15",
+                    "wrongAnswers": [
+                        "Howl",
+                        "Shiki Ryougi",
+                        "Hanako-kun"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Lelouch Lamperouge",
+                    "imageText": "He/She is a character from anime entitled \"Code Geass\". MAL score: 8.71",
+                    "imageDescription": "He/She is a character from anime entitled \"Code Geass\". the series follows the exiled prince Lelouch vi Britannia, who obtains the \"power of absolute obedience\" from a mysterious woman named C.C. Using this supernatural power, known as Geass, he leads a rebellion against the rule of the Holy Britannian Empire - Wikipedia. MAL score: 8.71",
+                    "wrongAnswers": [
+                        "Gowther",
+                        "Kaito Kuroba",
+                        "Mikaela Hyakuya"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Rintarou Okabe",
+                    "imageText": "He/She is a character from anime entitled \"Steins;Gate\". MAL score: 9.11",
+                    "imageDescription": "He/She is a character from anime entitled \"Steins;Gate\". It is set in 2010, and follows Rintaro Okabe, who together with his friends accidentally discovers a method of time travel through which they can send text messages to the past, thereby changing the present - Wikipedia. MAL score: 9.11",
+                    "wrongAnswers": [
+                        "Deishuu Kaiki",
+                        "Isaac Netero",
+                        "Homura Akemi"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "rem",
+                    "imageText": "He/She is a character from anime entitled \"Re:Zero\". MAL score: 8.28",
+                    "imageDescription": "He/She is a character from anime entitled \"Re:Zero\". Subaru Natsuki is a NEET who is suddenly summoned to a fantasy-like world. Just after arriving, he is killed while trying to help a young half-elf he befriends, Emilia, who is a candidate to become the next ruler of the Kingdom of Lugunica, only to revive some hours in the past - Wikipedia. MAL score: 8.28",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Level2",
+            "localizedName": "Level 2",
+            "gameType": 0,
+            "useMixedTypes": true,
+            "orderNumber": 2,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Kazuto Kirigaya",
+                    "imageText": "He/She is a character from anime entitled \"Sword Art Online\". MAL score: 7.23",
+                    "imageDescription": "He/She is a character from anime entitled \"Sword Art Online\". The series takes place in the near future and focuses on protagonist Kazuto \"Kirito\" Kirigaya and Asuna Yuuki as they play through various virtual reality MMORPG worlds -Wikipedia. MAL score: 7.23",
+                    "wrongAnswers": [
+                        "Jean Kirstein",
+                        "Seijuurou Akashi",
+                        "Hiei"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Saitama",
+                    "imageText": "He/She is a character from anime entitled \"One Punch Man\". MAL score: 8.55",
+                    "imageDescription": "He/She is a character from anime entitled \"One Punch Man\". It tells the story of Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength. -Wikipedia. MAL score: 8.55",
+                    "wrongAnswers": [
+                        "Yuu Ishigami",
+                        "Kuro no Rider",
+                        "Kusuo Saiki"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Zoro Roronoa",
+                    "imageText": "He/She is a character from anime entitled \"One Piece\". MAL score: 8.53 ",
+                    "imageDescription": "He/She is a character from anime entitled \"One Piece\". The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit - Wikipedia. MAL score: 8.53 ",
+                    "wrongAnswers": [
+                        "Sousuke Aizen",
+                        "Isla",
+                        "Maka Albarn"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Shouto Todoroki",
+                    "imageText": "He/She is a character from anime entitled \"My Hero Academia\". MAL score: 8.06 ",
+                    "imageDescription": "He/She is a character from anime entitled \"My Hero Academia\". The story follows Izuku Midoriya, a boy born without superpowers (called Quirks) in a world where they have become commonplace, but who still dreams of becoming a superhero himself -Wikipedia. MAL score: 8.06 ",
+                    "wrongAnswers": [
+                        "Suzaku Kururugi",
+                        "Yoriichi Tsugikuni",
+                        "Shouyou Hinata"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Itachi Uchiha",
+                    "imageText": "He/She is a character from anime entitled \"Naruto\". MAL score: 7.92 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Naruto\". It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village - Wikipedia. MAL score: 7.92 ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Emilia",
+                    "imageText": "He/She is a character from anime entitled \"Re:Zero\". MAL score: 8.28 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Re:Zero\". Subaru Natsuki is a NEET who is suddenly summoned to a fantasy-like world. Just after arriving, he is killed while trying to help a young half-elf he befriends, Emilia, who is a candidate to become the next ruler of the Kingdom of Lugunica, only to revive some hours in the past - Wikipedia. MAL score: 8.28 ",
+                    "wrongAnswers": [
+                        "Mami Nanami",
+                        "Misa Amane",
+                        "Ritsu Tainaka"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Hachiman Hikigaya",
+                    "imageText": "He/She is a character from anime entitled \"OreGairu\". MAL score: 8.05",
+                    "imageDescription": "He/She is a character from anime entitled \"OreGairu\".  The series follows Hachiman Hikigaya, a pessimistic, closeminded, and realistic teen, who is forced by his teacher to join the school's service club and work with two girls with issues of their own. They offer help and advice to others while dealing with their inner conflicts -Wikipedia. MAL score: 8.05",
+                    "wrongAnswers": [
+                        "Victor Nikiforov",
+                        "Haruhi Fujioka",
+                        "Kenshin Himura"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "L Lawliet",
+                    "imageText": "He/She is a character from anime entitled \"Death Note\". MAL score: 8.63 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Death Note\". The story follows Light Yagami, a teen genius who discovers a mysterious notebook: the \"Death Note\", which belonged to the Shinigami Ryuk, and grants the user the supernatural ability to kill anyone whose name is written in its pages - Wikipedia. MAL score: 8.63 ",
+                    "wrongAnswers": [
+                        "Zero Kiryuu",
+                        "Tengen Uzui",
+                        "Toge Inumaki"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Kurisu Makise",
+                    "imageText": "He/She is a character from anime entitled \"Steins;Gate\". MAL score: 9.11 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Steins;Gate\". It is set in 2010, and follows Rintaro Okabe, who together with his friends accidentally discovers a method of time travel through which they can send text messages to the past, thereby changing the present - Wikipedia. MAL score: 9.11 ",
+                    "wrongAnswers": [
+                        "Nanachi",
+                        "Erza Scarlet",
+                        "Juvia Lockser"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "guts",
+                    "imageText": "He/She is a character from anime entitled \"Berserk\". MAL score: 9.36 (Manga)",
+                    "imageDescription": "He/She is a character from anime entitled \"Berserk\". -Wikipedia. MAL score: 9.36 (Manga)",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Level3",
+            "localizedName": "Level 3",
+            "gameType": 0,
+            "useMixedTypes": true,
+            "orderNumber": 3,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Robin Nico",
+                    "imageText": "He/She is a character from anime entitled \"One Piece\". MAL score: 8.53 ",
+                    "imageDescription": "He/She is a character from anime entitled \"One Piece\". The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit - Wikipedia. MAL score: 8.53 ",
+                    "wrongAnswers": [
+                        "Mayoi Hachikuji",
+                        "Mitsuha Miyamizu",
+                        "Yoko Littner"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "hisoka Morow",
+                    "imageText": "He/She is a character from anime entitled \"Hunter X Hunter\". MAL score: 8.41 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Hunter X Hunter\". The story focuses on a young boy named Gon Freecss who discovers that his father, who left him at a young age, is actually a world renowned Hunter, a licensed professional who specializes in fantastical pursuits such as locating rare or unidentified animal species, etc - Wikipedia. MAL score: 8.41 ",
+                    "wrongAnswers": [
+                        "Tetsurou Kuroo",
+                        "Genos",
+                        "Giyuu Tomioka"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Megumin",
+                    "imageText": "He/She is a character from anime entitled \"Konosuba\". MAL score: 8.15",
+                    "imageDescription": "He/She is a character from anime entitled \"Konosuba\". The series follows Kazuma Satō, a boy who is sent to a fantasy world with MMORPG elements following his death, where he forms a dysfunctional party with a goddess, an archwizard, and a crusader -Wikipedia. MAL score: 8.15",
+                    "wrongAnswers": [
+                        "Meruem",
+                        "Mei Misaki",
+                        "Megumi Noda"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Tanjirou Kamado",
+                    "imageText": "He/She is a character from anime entitled \"Kimetsu no Yaiba\". MAL score: 8.60",
+                    "imageDescription": "He/She is a character from anime entitled \"Kimetsu no Yaiba\". It follows Tanjiro Kamado, a young boy who wants to become a demon slayer after his family is slaughtered and his younger sister Nezuko is turned into a demon -Wikipedia. MAL score: 8.60",
+                    "wrongAnswers": [
+                        "Noriaki Kakyouin",
+                        "Kanna Kamui",
+                        "Yuuji Kazami"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Yato",
+                    "imageText": "He/She is a character from anime entitled \"Noragami\". MAL score: 8.00 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Noragami\". Hiyori Iki was a normal middle school student until she was involved in a bus accident while trying to protect a stranger. This incident causes her soul to frequently slip out of her body, and she becomes aware of the existence of two parallel worlds -Wikipedia. MAL score: 8.00 ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Eren Yeager",
+                    "imageText": "He/She is a character from anime entitled \"Attack on Titan\". MAL score: 8.50 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Attack on Titan\".  It is set in a world where humanity lives inside cities surrounded by three enormous walls that protect them from the gigantic man-eating humanoids referred to as Titans - Wikipedia. MAL score: 8.50 ",
+                    "wrongAnswers": [
+                        "Yushirou",
+                        " Mitsuri Kanroji",
+                        "Subaru Natsuki"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Son Goku",
+                    "imageText": "He/She is a character from anime entitled \"Dragon Ball\". MAL score: 7.98 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Dragon Ball\". The series follows the adventures of the protagonist, Son Goku, from his childhood through adulthood as he trains in martial arts. He spends his childhood far from civilization until he meets a teen girl named Bulma -Wikipedia. MAL score: 7.98 ",
+                    "wrongAnswers": [
+                        "Son Gohan ",
+                        "Hak Son",
+                        "Reigen Arataka"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Chika Fujiwara",
+                    "imageText": "He/She is a character from anime entitled \"Kaguya-sama: Love Is War\". MAL score: 8.42",
+                    "imageDescription": "He/She is a character from anime entitled \"Kaguya-sama: Love Is War\". In the senior high school division of Shuchiin Academy, the student council president and vice president, Miyuki Shirogane and Kaguya Shinomiya, appear to be the perfect couple -Wikipedia. MAL score: 8.42",
+                    "wrongAnswers": [
+                        "Shichika Yasuri",
+                        "Chizuru Hishiro",
+                        "Himeko Inaba"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Kakashi hatake",
+                    "imageText": "He/She is a character from anime entitled \"Naruto\". MAL score: 7.92 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Naruto\". It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village - Wikipedia. MAL score: 7.92 ",
+                    "wrongAnswers": [
+                        "Kaworu Nagisa",
+                        "Char Aznable",
+                        "Eikichi Onizuka"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Taiga Aisaka",
+                    "imageText": "He/She is a character from anime entitled \"Toradora!\". MAL score: 8.21",
+                    "imageDescription": "He/She is a character from anime entitled \"Toradora!\". Ryuji Takasu is frustrated at trying to look his best as he enters his second year of high school. Despite his gentle personality, his eyes give him the appearance of an intimidating delinquent -Wikipedia. MAL score: 8.21 ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Level4",
+            "localizedName": "Level 4",
+            "gameType": 0,
+            "useMixedTypes": true,
+            "orderNumber": 4,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Ken Kaneki",
+                    "imageText": "He/She is a character from anime entitled \"Tokyo Ghoul\". MAL score: 7.80",
+                    "imageDescription": "He/She is a character from anime entitled \"Tokyo Ghoul\". It set in an alternate reality where ghouls, creatures that look like normal people but can only survive by eating human flesh, live among the human population in secrecy, hiding their true nature in order to evade pursuit from the authorities. -Wikipedia. MAL score: 7.80",
+                    "wrongAnswers": [
+                        "Morgiana",
+                        "Kenma Kozume",
+                        "Kento Nanami"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Mikasa Ackerman",
+                    "imageText": "He/She is a character from anime entitled \"Attack on Titan\". MAL score: 8.50",
+                    "imageDescription": "He/She is a character from anime entitled \"Attack on Titan\".  It is set in a world where humanity lives inside cities surrounded by three enormous walls that protect them from the gigantic man-eating humanoids referred to as Titans - Wikipedia. MAL score: 8.50",
+                    "wrongAnswers": [
+                        "Chihaya Ayase",
+                        "Yui Yuigahama",
+                        "Riza Hawkeye"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Roy Mustang",
+                    "imageText": "He/She is a character from anime entitled \"Fullmetal Alchemist\". MAL score: 8.15 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Fullmetal Alchemist\".  the series follows the journey of two alchemist brothers, Edward and Alphonse Elric, who are searching for the philosopher's stone to restore their bodies after a failed attempt to bring their mother back to life using alchemy - Wikipedia. MAL score: 8.15 ",
+                    "wrongAnswers": [
+                        " Yoruichi Shihouin",
+                        "Nozomu Itoshiki",
+                        "Kou Mabuchi"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Saber",
+                    "imageText": "He/She is a character from anime entitled \"Fate/stay night\". MAL score: 7.32",
+                    "imageDescription": "He/She is a character from anime entitled \"Fate/stay night\". The story revolves around Shirou Emiya, a hardworking and honest teenager who unwillingly enters a to-the-death tournament called the Fifth Holy Grail War, where combatants fight with magic and Heroes from throughout history for a chance to have their wishes granted -Wikipedia. MAL score: 7.32",
+                    "wrongAnswers": [
+                        "Sabito",
+                        "zayoi Sakamaki",
+                        "Shiroe"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Sanji",
+                    "imageText": "He/She is a character from anime entitled \"One Piece\". MAL score: 8.53",
+                    "imageDescription": "He/She is a character from anime entitled \"One Piece\". The story follows the adventures of Monkey D. Luffy, a boy whose body gained the properties of rubber after unintentionally eating a Devil Fruit - Wikipedia. MAL score: 8.53",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Hitagi Senjougahara",
+                    "imageText": "He/She is a character from anime entitled \"Bakemonogatari\". MAL score: 8.35",
+                    "imageDescription": "He/She is a character from anime entitled \"Bakemonogatari\". This series revolves around Koyomi Araragi, a third-year high school student who has almost restored his humanity after briefly becoming a vampire during spring break. One day, a classmate of his, the reclusive Hitagi Senjōgahara, falls down a flight of stairs at school into Koyomi's arms -Wikipedia. MAL score: 8.35",
+                    "wrongAnswers": [
+                        "Nadeko Sengoku",
+                        "Claire Stanfield",
+                        "Mami Tomoe"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Kaguya Shinomiya",
+                    "imageText": "He/She is a character from anime entitled \"Kaguya-sama: Love is War\". MAL score: 8.42",
+                    "imageDescription": "He/She is a character from anime entitled \"Kaguya-sama: Love Is War\". In the senior high school division of Shuchiin Academy, the student council president and vice president, Miyuki Shirogane and Kaguya Shinomiya, appear to be the perfect couple. Kaguya is the daughter of a wealthy conglomerate family, and Miyuki is the top student at the school and well-known across the prefecture -Wikipedia. MAL score: 8.42",
+                    "wrongAnswers": [
+                        "Kaguya otsutsuki",
+                        "Juuzou Suzuya",
+                        "Rikka Takanashi"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Spike Spiegel",
+                    "imageText": "He/She is a character from anime entitled \"Cowboy Bebop\". MAL score: 8.77",
+                    "imageDescription": "He/She is a character from anime entitled \"Cowboy Bebop\". In 2071, roughly fifty years after an accident with a hyperspace gateway made the Earth almost uninhabitable, humanity has colonized most of the rocky planets and moons of the Solar System -Wikipedia. MAL score: 8.77",
+                    "wrongAnswers": [
+                        "Franken Stein",
+                        "Tsukasa Yuzaki",
+                        "Gyro Zeppeli"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Sasuke Uchiha",
+                    "imageText": "He/She is a character from anime entitled \"Naruto\". MAL score: 7.92 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Naruto\". It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village - Wikipedia. MAL score: 7.92",
+                    "wrongAnswers": [
+                        "Askeladd",
+                        "Shizuo Heiwajima",
+                        "Deishuu Kaiki"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Asuna Yuuki",
+                    "imageText": "He/She is a character from anime entitled \"Sword Art Online\". MAL score: 7.23 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Sword Art Online\". The series takes place in the near future and focuses on protagonist Kazuto \"Kirito\" Kirigaya and Asuna Yuuki as they play through various virtual reality MMORPG worlds -Wikipedia. MAL score: 7.23",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Level5",
+            "localizedName": "Level 5",
+            "gameType": 0,
+            "useMixedTypes": true,
+            "orderNumber": 5,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Ichigo Kurosaki",
+                    "imageText": "He/She is a character from anime entitled \"Bleach\". MAL score: 7.80",
+                    "imageDescription": "He/She is a character from anime entitled \"Bleach\". The story follows the adventures of Ichigo Kurosaki after he obtains the powers of a Soul Reaper—a death personification similar to the Grim Reaper—from another Soul Reaper, Rukia Kuchiki -Wikipedia. MAL score: 7.80",
+                    "wrongAnswers": [
+                        "Ichigo",
+                        "Shino Asada",
+                        "Victorique de Blois"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Izuku Midoriya",
+                    "imageText": "He/She is a character from anime entitled \"My Hero Academia\". MAL score: 8.06  ",
+                    "imageDescription": "He/She is a character from anime entitled \"My Hero Academia\". The story follows Izuku Midoriya, a boy born without superpowers (called Quirks) in a world where they have become commonplace, but who still dreams of becoming a superhero himself -Wikipedia. MAL score: 8.06  ",
+                    "wrongAnswers": [
+                        "Asta",
+                        "Sougo Okita",
+                        "Tooru Honda"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Osamu Dazai",
+                    "imageText": "He/She is a character from anime entitled \"Bungou Stray Dogs\". MAL score: 7.79",
+                    "imageDescription": "He/She is a character from anime entitled \"Bungou Stray Dogs\". The show mainly focuses on the weretiger Atsushi Nakajima, who joins others gifted with supernatural powers to accomplish different tasks including running a business, solving mysteries, and carrying out missions assigned by the mafia -Wikipedia. MAL score: 7.79",
+                    "wrongAnswers": [
+                        "Laxus Dreyar",
+                        "Kyouko Kirigiri",
+                        "Jolyne Kuujou"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Mai Sakurajima",
+                    "imageText": "He/She is a character from anime entitled \"Aobuta\". MAL score: 8.35",
+                    "imageDescription": "He/She is a character from anime entitled \"Aobuta\". Sakuta Azusagawa's life takes a turn for the unexpected when he meets teenage actress Mai Sakurajima, dressed as a bunny girl, wandering through a library and not being noticed by anyone else there -Wikipedia. MAL score: 8.35",
+                    "wrongAnswers": [
+                        "Rias Gremory",
+                        "Winry Rockbell",
+                        "Rei Ayanami"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Zero Two",
+                    "imageText": "He/She is a character from anime entitled \"Darling in the FranXX\". MAL score: 7.31",
+                    "imageDescription": "He/She is a character from anime entitled \"Darling in the FranXX\". It takes place in a dystopian post-apocalyptic future where the remnants of human civilization have abandoned the surface. Adults and children exist in contrasting environments from each other -Wikipedia. MAL score: 7.31",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "Yuno Gasai",
+                    "imageText": "He/She is a character from anime entitled \"Mirai Nikki\". MAL score: 7.25",
+                    "imageDescription": "He/She is a character from anime entitled \"Mirai Nikki\". Yukiteru Amano is a 14-year-old, shy and daydreaming loner who observes life and jots down the events on his cell phone. His only friends are Deus Ex Machina, the God of Space and Time, and his assistant Muru Muru -Wikipedia. MAL score: 7.25",
+                    "wrongAnswers": [
+                        "Yukine",
+                        "Yona",
+                        "Tooka Yatogami"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Holo",
+                    "imageText": "He/She is a character from anime entitled \"Ookami to Koushinryou\". MAL score: 8.26",
+                    "imageDescription": "He/She is a character from anime entitled \"Ookami to Koushinryou\". The story revolves around Kraft Lawrence, a 25-year-old traveling merchant who peddles various goods from town to town to make a living in a stylized, fictional world, with a historical setting with European influences -Wikipedia. MAL score: 8.26",
+                    "wrongAnswers": [
+                        "Howl",
+                        "Hestia",
+                        "Hikaru Hitachiin"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Shinobu Oshino",
+                    "imageText": "He/She is a character from anime entitled \"Kizumonogatari\". MAL score: 8.40",
+                    "imageDescription": "He/She is a character from anime entitled \"Kizumonogatari\". Koyomi Araragi, a second year high school student at Naoetsu High School, befriends Tsubasa Hanekawa, the top honors student at his school. Tsubasa mentions a rumor about a \"blonde vampire\" that has been sighted around their town recently -Wikipedia. MAL score: 8.40",
+                    "wrongAnswers": [
+                        "Kyouko Kirigiri",
+                        "Yuno",
+                        "Utaha Kasumigaoka"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Kamina",
+                    "imageText": "He/She is a character from anime entitled \"Gurren Lagann\". MAL score: 8.66",
+                    "imageDescription": "He/She is a character from anime entitled \"Gurren Lagann\". It takes place in a future where Earth is ruled by the Spiral King, Lordgenome, who forces mankind to live in isolated subterranean villages. These villages have no contact with the surface world or other villages and are under constant threat of earthquakes. -Wikipedia. MAL score: 8.66",
+                    "wrongAnswers": [
+                        "Kagura",
+                        "Kanna Kamui",
+                        "Kino"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "ichigo",
+                    "imageText": "He/She is a character from anime entitled \"Darling in the FranXX\". MAL score: 7.31",
+                    "imageDescription": "He/She is a character from anime entitled \"Darling in the FranXX\". It takes place in a dystopian post-apocalyptic future where the remnants of human civilization have abandoned the surface. Adults and children exist in contrasting environments from each other -Wikipedia. MAL score: 7.31",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        },
+        {
+            "name": "Level6",
+            "localizedName": "Level 6",
+            "gameType": 0,
+            "useMixedTypes": true,
+            "orderNumber": 6,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "Kurumi Tokisaki",
+                    "imageText": "He/She is a character from anime entitled \"Date A Live\". MAL score: 7.20",
+                    "imageDescription": "He/She is a character from anime entitled \"Date A Live\". -Wikipedia. MAL score: 7.20",
+                    "wrongAnswers": [
+                        "Kallen Stadtfeld",
+                        "Rui Tachibana",
+                        "Koneko Toujou"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "Yukino Yukinoshita",
+                    "imageText": "He/She is a character from anime entitled \"OreGairu\". MAL score: 8.05 ",
+                    "imageDescription": "He/She is a character from anime entitled \"OreGairu\".  The series follows Hachiman Hikigaya, a pessimistic, closeminded, and realistic teen, who is forced by his teacher to join the school's service club and work with two girls with issues of their own. They offer help and advice to others while dealing with their inner conflicts -Wikipedia. MAL score: 8.05 ",
+                    "wrongAnswers": [
+                        "Shichika Yasuri",
+                        "Mayoi Hachikuji",
+                        "Kanae Kochou"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "Zenitsu Agatsuma",
+                    "imageText": "He/She is a character from anime entitled \"Kimetsu no Yaiba\". MAL score: 8.60 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Kimetsu no Yaiba\". It follows Tanjiro Kamado, a young boy who wants to become a demon slayer after his family is slaughtered and his younger sister Nezuko is turned into a demon -Wikipedia. MAL score: 8.60 ",
+                    "wrongAnswers": [
+                        "Nana Osaki",
+                        "Nagito Komaeda",
+                        "Reiner Braun"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "Homura Akemi",
+                    "imageText": "He/She is a character from anime entitled \"Mahou Shoujo Madoka★Magica\". MAL score: 8.37",
+                    "imageDescription": "He/She is a character from anime entitled \"Mahou Shoujo Madoka★Magica\". In the fictional city of Mitakihara, Japan, a middle school student named Madoka Kaname and her friend Sayaka Miki encounter a small, cat-like creature named Kyubey. It offers a contract in which a girl may have any wish granted in exchange for obtaining magical powers and being tasked with fighting witches -Wikipedia. MAL score: 8.37",
+                    "wrongAnswers": [
+                        "Miku Nakano",
+                        "Saeko Busujima",
+                        "Nao Tomori"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "Koyomi Araragi",
+                    "imageText": "He/She is a character from anime entitled \"Kizumonogatari\". MAL score: 8.40 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Kizumonogatari\". Koyomi Araragi, a second year high school student at Naoetsu High School, befriends Tsubasa Hanekawa, the top honors student at his school. Tsubasa mentions a rumor about a \"blonde vampire\" that has been sighted around their town recently -Wikipedia. MAL score: 8.40 ",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "C.C.",
+                    "imageText": "He/She is a character from anime entitled \"Code Geass\". MAL score: 8.71 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Code Geass\". the series follows the exiled prince Lelouch vi Britannia, who obtains the \"power of absolute obedience\" from a mysterious woman named C.C. Using this supernatural power, known as Geass, he leads a rebellion against the rule of the Holy Britannian Empire - Wikipedia. MAL score: 8.71 ",
+                    "wrongAnswers": [
+                        "Elaina",
+                        "Yuuri Katsuki",
+                        "Kanade Tachibana"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "Natsu Dragneel",
+                    "imageText": "He/She is a character from anime entitled \"Fairy Tail\". MAL score: 7.64",
+                    "imageDescription": "He/She is a character from anime entitled \"Fairy Tail\". The world of Earth-land is home to numerous guilds where wizards apply their magic for paid job requests. Natsu Dragneel, a Dragon Slayer wizard from the Fairy Tail guild, explores the Kingdom of Fiore in search of his missing adoptive father, the dragon Igneel -Wikipedia. MAL score: 7.64",
+                    "wrongAnswers": [
+                        "Deishuu Kaiki",
+                        "Tengen Uzui",
+                        "Sora"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "Satoru Gojou",
+                    "imageText": "He/She is a character from anime entitled \"Jujutsu Kaisen\". MAL score: 8.79",
+                    "imageDescription": "He/She is a character from anime entitled \"Jujutsu Kaisen\". Yuji Itadori is an unnaturally fit high school student living in Sendai with his grandfather. He regularly avoids the track team due to the time commitment required for it, despite his innate talent for the sport. Instead, he chooses to join the Occult Research Club -Wikipedia. MAL score: 8.79",
+                    "wrongAnswers": [
+                        "Shouyou Hinata",
+                        "Noriaki Kakyouin",
+                        "Shouko Komi"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "Nezuko Kamado",
+                    "imageText": "He/She is a character from anime entitled \"Kimetsu no Yaiba\". MAL score: 8.60 ",
+                    "imageDescription": "He/She is a character from anime entitled \"Kimetsu no Yaiba\". It follows Tanjiro Kamado, a young boy who wants to become a demon slayer after his family is slaughtered and his younger sister Nezuko is turned into a demon -Wikipedia. MAL score: 8.60 ",
+                    "wrongAnswers": [
+                        "Kotori Itsuka",
+                        "Sakura Haruno",
+                        "Misaki Ayuzawa"
+                    ],
+                    "gameType": 5,
+                    "cost": 0
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "Izaya Orihara",
+                    "imageText": "He/She is a character from anime entitled \"Durarara!!\". MAL score: 8.16",
+                    "imageDescription": "He/She is a character from anime entitled \"Durarara!!\". Mikado Ryūgamine, a young boy who longs for the exciting life of the big city, moves to Ikebukuro to attend Raira Academy with his childhood friend Masaomi Kida, whom he has not seen since he was young -Wikipedia. MAL score: 8.16",
+                    "wrongAnswers": [],
+                    "gameType": 4,
+                    "cost": 0
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "play"
+        },
+        {
+            "key": 1,
+            "value": "about"
+        },
+        {
+            "key": 2,
+            "value": "quit"
+        },
+        {
+            "key": 3,
+            "value": "back"
+        },
+        {
+            "key": 4,
+            "value": "Get ready to solve some picture puzzles! Get stucked? Use different hints! Earn coins by completing tasks or by watching short AD! Have fun!"
+        },
+        {
+            "key": 5,
+            "value": "Locked. Clear previous levels"
+        },
+        {
+            "key": 6,
+            "value": "Reveal a letter"
+        },
+        {
+            "key": 7,
+            "value": "Remove letters"
+        },
+        {
+            "key": 8,
+            "value": "Get an answer"
+        },
+        {
+            "key": 9,
+            "value": "Get coins"
+        },
+        {
+            "key": 10,
+            "value": "Watch AD"
+        },
+        {
+            "key": 11,
+            "value": "Buy coins + remove popup ads"
+        },
+        {
+            "key": 12,
+            "value": "continue"
+        },
+        {
+            "key": 13,
+            "value": "main menu"
+        },
+        {
+            "key": 14,
+            "value": "Level complete!"
+        },
+        {
+            "key": 15,
+            "value": "If you liked the game, please rate it on Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "rate"
+        },
+        {
+            "key": 18,
+            "value": "later"
+        },
+        {
+            "key": 17,
+            "value": "never"
+        },
+        {
+            "key": 19,
+            "value": "Data collection consent"
+        },
+        {
+            "key": 20,
+            "value": "Personalized advertisements"
+        },
+        {
+            "key": 21,
+            "value": "Allow AD networks too use collected data and show personalized advertisements"
+        },
+        {
+            "key": 22,
+            "value": "yes"
+        },
+        {
+            "key": 23,
+            "value": "no"
+        },
+        {
+            "key": 24,
+            "value": "Looks like you have a better progress!"
+        },
+        {
+            "key": 25,
+            "value": "Do you want to load it?"
+        },
+        {
+            "key": 26,
+            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+        },
+        {
+            "key": 27,
+            "value": "Do you want us to present you relevant advertising that fits your interests?"
+        },
+        {
+            "key": 28,
+            "value": "Confirm"
+        },
+        {
+            "key": 29,
+            "value": "Learn more"
+        },
+        {
+            "key": 30,
+            "value": "Remove wrong answer"
+        },
+        {
+            "key": 31,
+            "value": "Remove two answers"
+        },
+        {
+            "key": 32,
+            "value": "Chanse to mistake"
+        },
+        {
+            "key": 33,
+            "value": "Please, help me to complete the level!"
+        },
+        {
+            "key": 34,
+            "value": "Help from friends"
+        },
+        {
+            "key": 35,
+            "value": "Ask friends"
+        },
+        {
+            "key": 36,
+            "value": "Bet"
+        },
+        {
+            "key": 37,
+            "value": "Use hints if you get stucked!"
+        },
+        {
+            "key": 38,
+            "value": "Tap the letter to clear it. Swipe to clear all the letters."
+        },
+        {
+            "key": 39,
+            "value": "Scrape the film to reveal the image!"
+        },
+        {
+            "key": 40,
+            "value": "Tap this to make the image more clear. Requires gold!"
+        },
+        {
+            "key": 41,
+            "value": "Tap the image to make it more clear. Requires gold!"
+        },
+        {
+            "key": 42,
+            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 43,
+            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+        },
+        {
+            "key": 44,
+            "value": "Tap to get info on where the character come from!"
+        },
+        {
+            "key": 45,
+            "value": "How difficult this task is? Make a right bet!"
+        },
+        {
+            "key": 46,
+            "value": "more games"
+        },
+        {
+            "key": 47,
+            "value": "retry"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        121,
+        98,
+        107,
+        119,
+        116,
+        114,
+        106,
+        118,
+        117,
+        99,
+        113,
+        105,
+        122,
+        120,
+        108,
+        112
+    ]
+}
